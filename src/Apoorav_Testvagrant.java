@@ -71,10 +71,6 @@ class Apoorav_Testvagrant {
         arr.add(new Apoorav_Testvagrant(8, "Depict the direction of the magnetic field lines due to a circular current carrying loop.", "2012,2022","Magnetic field"));
         arr.add(new Apoorav_Testvagrant(9, "Why do the electric field lines not form closed loops?", "2013,2015,2020","Electrostatic field"));
         arr.add(new Apoorav_Testvagrant(10, "Is the electric field due to a charge configuration with total charge zero, necessarily zero?", "2019,2021","Electrostatic field"));
-
-
-
-        System.out.println(arr.size());
         System.out.println("enter the year");
         Scanner sc=new Scanner(System.in);
         String GYear=sc.nextLine();
